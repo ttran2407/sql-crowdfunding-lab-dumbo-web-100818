@@ -1,4 +1,4 @@
-INSERT INTO projects (title) VALUES ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1");
+INSERT INTO projects (title) VALUES ("Mission 1"); ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1") ("Mission 1");
 
 INSERT INTO users (name) VALUES ("Tien") ("Tien") ("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien")("Tien");
 
