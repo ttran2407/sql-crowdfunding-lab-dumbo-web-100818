@@ -13,7 +13,7 @@ end
 
 def selects_the_user_name_age_and_pledge_amount_for_all_pledges_alphabetized_by_name
 "Write your SQL query Here"
-"SELECT users.name, users.age, pledge.amount FROM users
+"SELECT users.name, users.age, pledges.amount FROM users
     INNER JOIN pledges ON user.id = pledges.user_id
     ORDER BY users.name;"
 end
